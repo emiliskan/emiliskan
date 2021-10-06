@@ -8,4 +8,4 @@ https://github.com/emiliskan/notifications_sprint_1
 
 #### Stack: `Django` `FastAPI` `Postgres` `Celery`
 
-- 📫 tg: @emiliskan
+### 📫 tg: @emiliskan
